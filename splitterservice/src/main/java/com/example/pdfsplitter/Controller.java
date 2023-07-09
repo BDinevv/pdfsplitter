@@ -35,4 +35,9 @@ public class Controller {
         return "Feedback received! Thank you!";
     }
 
+    @GetMapping("/healthcheck")
+    public String feedback(){
+        return "Available!";
+    }
+
 }

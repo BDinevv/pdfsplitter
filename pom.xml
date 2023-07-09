@@ -15,7 +15,7 @@
     <name>pdfsplitter</name>
     <description>pdfsplitter</description>
     <modules>
-        <module>databaseservice</module>
+        <module>splitterservice</module>
     </modules>
     <properties>
         <java.version>17</java.version>
